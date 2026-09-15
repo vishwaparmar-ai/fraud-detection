@@ -13,3 +13,4 @@ ml/*
 
 !ml/data_quality_check.py
 
+!ml/notebooks/
